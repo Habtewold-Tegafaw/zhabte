@@ -1,0 +1,13 @@
+TegafawHabtewold@Gmail.com
+Pass.....Habte1234.....................Email
+
+Habtewold-Tegafaw...............Git hub username
+Habte12345...GIT HUB Password...git hub password
+
+...............................................................
+
+git init
+git remote add origin "EXAMPLE URL"
+git add .
+git commit -m "...."
+git push remote master
